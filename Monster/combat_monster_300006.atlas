@@ -1,0 +1,846 @@
+
+combat_monster_300006.png
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+monster_flour_arml_behind01
+  rotate: false
+  xy: 110, 286
+  size: 40, 73
+  orig: 40, 73
+  offset: 0, 0
+  index: -1
+monster_flour_arml_behind02
+  rotate: false
+  xy: 570, 846
+  size: 51, 33
+  orig: 51, 33
+  offset: 0, 0
+  index: -1
+monster_flour_arml_behind03
+  rotate: false
+  xy: 602, 881
+  size: 51, 33
+  orig: 51, 33
+  offset: 0, 0
+  index: -1
+monster_flour_arml_fronts01
+  rotate: true
+  xy: 820, 889
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+monster_flour_arml_fronts02
+  rotate: true
+  xy: 195, 307
+  size: 53, 34
+  orig: 53, 34
+  offset: 0, 0
+  index: -1
+monster_flour_arml_fronts03
+  rotate: false
+  xy: 382, 880
+  size: 53, 34
+  orig: 53, 34
+  offset: 0, 0
+  index: -1
+monster_flour_arms_behind01
+  rotate: true
+  xy: 376, 805
+  size: 24, 47
+  orig: 24, 47
+  offset: 0, 0
+  index: -1
+monster_flour_arms_behind02
+  rotate: true
+  xy: 73, 2
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+monster_flour_arms_fronts01
+  rotate: true
+  xy: 977, 898
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+monster_flour_arms_fronts02
+  rotate: false
+  xy: 399, 665
+  size: 25, 48
+  orig: 25, 48
+  offset: 0, 0
+  index: -1
+monster_flour_belly01
+  rotate: false
+  xy: 262, 805
+  size: 112, 93
+  orig: 112, 93
+  offset: 0, 0
+  index: -1
+monster_flour_belly02
+  rotate: false
+  xy: 262, 900
+  size: 118, 122
+  orig: 118, 122
+  offset: 0, 0
+  index: -1
+monster_flour_chest01
+  rotate: false
+  xy: 2, 533
+  size: 106, 123
+  orig: 106, 123
+  offset: 0, 0
+  index: -1
+monster_flour_chest02
+  rotate: false
+  xy: 632, 926
+  size: 95, 96
+  orig: 95, 96
+  offset: 0, 0
+  index: -1
+monster_flour_eye01
+  rotate: true
+  xy: 229, 411
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+monster_flour_eye02
+  rotate: false
+  xy: 426, 667
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+skin01/skin01_monster_flour_eye02
+  rotate: false
+  xy: 426, 667
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+skin04/skin04_monster_flour_eye02
+  rotate: false
+  xy: 426, 667
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+skin05/skin05_monster_flour_eye02
+  rotate: false
+  xy: 426, 667
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+monster_flour_eye03
+  rotate: false
+  xy: 623, 845
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+monster_flour_food
+  rotate: true
+  xy: 2, 2
+  size: 83, 69
+  orig: 83, 69
+  offset: 0, 0
+  index: -1
+monster_flour_head
+  rotate: false
+  xy: 399, 631
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+monster_flour_legl_behind
+  rotate: false
+  xy: 233, 611
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+monster_flour_legl_fronts
+  rotate: false
+  xy: 261, 617
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+monster_flour_legs_behind
+  rotate: false
+  xy: 233, 641
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+monster_flour_legs_fronts
+  rotate: true
+  xy: 425, 805
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+monster_flour_prop
+  rotate: true
+  xy: 73, 30
+  size: 55, 37
+  orig: 55, 37
+  offset: 0, 0
+  index: -1
+monster_flour_prop01
+  rotate: true
+  xy: 152, 302
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1
+skin01/skin01_monster_flour_arml_behind01
+  rotate: false
+  xy: 190, 623
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+skin01/skin01_monster_flour_arml_behind02
+  rotate: false
+  xy: 437, 881
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+skin01/skin01_monster_flour_arml_fronts01
+  rotate: false
+  xy: 190, 570
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+skin01/skin01_monster_flour_arml_fronts02
+  rotate: false
+  xy: 492, 881
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+skin01/skin01_monster_flour_arms_behind01
+  rotate: true
+  xy: 816, 861
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+skin01/skin01_monster_flour_arms_behind02
+  rotate: true
+  xy: 871, 898
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+skin01/skin01_monster_flour_arms_fronts01
+  rotate: false
+  xy: 127, 185
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+skin01/skin01_monster_flour_arms_fronts02
+  rotate: false
+  xy: 431, 754
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+skin01/skin01_monster_flour_belly01
+  rotate: false
+  xy: 262, 725
+  size: 97, 78
+  orig: 97, 78
+  offset: 0, 0
+  index: -1
+skin01/skin01_monster_flour_belly02
+  rotate: false
+  xy: 2, 902
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+skin01/skin01_monster_flour_chest01
+  rotate: true
+  xy: 132, 672
+  size: 106, 123
+  orig: 106, 123
+  offset: 0, 0
+  index: -1
+skin01/skin01_monster_flour_chest02
+  rotate: false
+  xy: 2, 185
+  size: 95, 96
+  orig: 95, 96
+  offset: 0, 0
+  index: -1
+skin01/skin01_monster_flour_eye01
+  rotate: false
+  xy: 184, 250
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+skin04/skin04_monster_flour_eye01
+  rotate: false
+  xy: 184, 250
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+skin05/skin05_monster_flour_eye01
+  rotate: false
+  xy: 184, 250
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+skin01/skin01_monster_flour_head
+  rotate: false
+  xy: 356, 632
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+skin01/skin01_monster_flour_legl_behind
+  rotate: false
+  xy: 229, 581
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+skin01/skin01_monster_flour_legl_fronts
+  rotate: true
+  xy: 459, 742
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+skin01/skin01_monster_flour_legs_behind
+  rotate: false
+  xy: 490, 685
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+skin01/skin01_monster_flour_legs_fronts
+  rotate: true
+  xy: 448, 716
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+skin02/skin02_monster_flour_arml_behind01
+  rotate: false
+  xy: 190, 362
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+skin02/skin02_monster_flour_arml_behind02
+  rotate: false
+  xy: 547, 881
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+skin02/skin02_monster_flour_arml_fronts01
+  rotate: false
+  xy: 190, 517
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+skin02/skin02_monster_flour_arml_fronts02
+  rotate: true
+  xy: 361, 750
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+skin02/skin02_monster_flour_arms_behind01
+  rotate: true
+  xy: 657, 835
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+skin02/skin02_monster_flour_arms_behind02
+  rotate: true
+  xy: 924, 898
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+skin02/skin02_monster_flour_arms_fronts01
+  rotate: false
+  xy: 127, 135
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+skin02/skin02_monster_flour_arms_fronts02
+  rotate: false
+  xy: 99, 232
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+skin02/skin02_monster_flour_belly01
+  rotate: false
+  xy: 257, 645
+  size: 97, 78
+  orig: 97, 78
+  offset: 0, 0
+  index: -1
+skin02/skin02_monster_flour_belly02
+  rotate: false
+  xy: 2, 780
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+skin02/skin02_monster_flour_chest01
+  rotate: true
+  xy: 382, 916
+  size: 106, 123
+  orig: 106, 123
+  offset: 0, 0
+  index: -1
+skin02/skin02_monster_flour_chest02
+  rotate: false
+  xy: 729, 926
+  size: 95, 96
+  orig: 95, 96
+  offset: 0, 0
+  index: -1
+skin02/skin02_monster_flour_eye01
+  rotate: false
+  xy: 233, 359
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+skin02/skin02_monster_flour_eye02
+  rotate: false
+  xy: 155, 237
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+skin02/skin02_monster_flour_head
+  rotate: true
+  xy: 99, 87
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+skin02/skin02_monster_flour_legl_behind
+  rotate: false
+  xy: 229, 551
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+skin02/skin02_monster_flour_legl_fronts
+  rotate: false
+  xy: 416, 716
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+skin02/skin02_monster_flour_legs_behind
+  rotate: false
+  xy: 514, 685
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+skin02/skin02_monster_flour_legs_fronts
+  rotate: true
+  xy: 478, 716
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+skin03/skin03_monster_flour_arml_behind01
+  rotate: false
+  xy: 376, 831
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+skin03/skin03_monster_flour_arml_behind02
+  rotate: true
+  xy: 396, 750
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+skin03/skin03_monster_flour_arml_fronts01
+  rotate: false
+  xy: 190, 464
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+skin03/skin03_monster_flour_arml_fronts02
+  rotate: false
+  xy: 361, 715
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+skin03/skin03_monster_flour_arms_behind01
+  rotate: true
+  xy: 709, 835
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+skin03/skin03_monster_flour_arms_behind02
+  rotate: true
+  xy: 657, 863
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+skin03/skin03_monster_flour_arms_fronts01
+  rotate: false
+  xy: 112, 37
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+skin03/skin03_monster_flour_arms_fronts02
+  rotate: false
+  xy: 99, 181
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+skin03/skin03_monster_flour_belly01
+  rotate: true
+  xy: 110, 559
+  size: 97, 78
+  orig: 97, 78
+  offset: 0, 0
+  index: -1
+skin03/skin03_monster_flour_belly02
+  rotate: false
+  xy: 132, 902
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+skin03/skin03_monster_flour_chest01
+  rotate: false
+  xy: 2, 408
+  size: 106, 123
+  orig: 106, 123
+  offset: 0, 0
+  index: -1
+skin03/skin03_monster_flour_chest02
+  rotate: false
+  xy: 2, 87
+  size: 95, 96
+  orig: 95, 96
+  offset: 0, 0
+  index: -1
+skin03/skin03_monster_flour_eye01
+  rotate: false
+  xy: 231, 338
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+skin03/skin03_monster_flour_eye02
+  rotate: false
+  xy: 231, 323
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+skin03/skin03_monster_flour_head
+  rotate: true
+  xy: 133, 92
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+skin03/skin03_monster_flour_legl_behind
+  rotate: false
+  xy: 229, 521
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+skin03/skin03_monster_flour_legl_fronts
+  rotate: false
+  xy: 426, 682
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+skin03/skin03_monster_flour_legs_behind
+  rotate: true
+  xy: 319, 621
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+skin03/skin03_monster_flour_legs_fronts
+  rotate: true
+  xy: 508, 716
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+skin04/skin04_monster_flour_arml_behind01
+  rotate: false
+  xy: 356, 666
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+skin04/skin04_monster_flour_arml_behind02
+  rotate: false
+  xy: 515, 846
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+skin04/skin04_monster_flour_arml_fronts01
+  rotate: false
+  xy: 190, 411
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+skin04/skin04_monster_flour_arml_fronts02
+  rotate: false
+  xy: 655, 891
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+skin04/skin04_monster_flour_arms_behind01
+  rotate: true
+  xy: 761, 835
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+skin04/skin04_monster_flour_arms_behind02
+  rotate: true
+  xy: 710, 863
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+skin04/skin04_monster_flour_arms_fronts01
+  rotate: false
+  xy: 155, 252
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+skin04/skin04_monster_flour_arms_fronts02
+  rotate: false
+  xy: 99, 130
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+skin04/skin04_monster_flour_belly01
+  rotate: true
+  xy: 110, 460
+  size: 97, 78
+  orig: 97, 78
+  offset: 0, 0
+  index: -1
+skin04/skin04_monster_flour_belly02
+  rotate: false
+  xy: 2, 658
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+skin04/skin04_monster_flour_chest01
+  rotate: true
+  xy: 507, 916
+  size: 106, 123
+  orig: 106, 123
+  offset: 0, 0
+  index: -1
+skin04/skin04_monster_flour_chest02
+  rotate: false
+  xy: 826, 926
+  size: 95, 96
+  orig: 95, 96
+  offset: 0, 0
+  index: -1
+skin04/skin04_monster_flour_head
+  rotate: false
+  xy: 462, 808
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+skin04/skin04_monster_flour_legl_behind
+  rotate: false
+  xy: 229, 491
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+skin04/skin04_monster_flour_legl_fronts
+  rotate: false
+  xy: 458, 682
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+skin04/skin04_monster_flour_legs_behind
+  rotate: false
+  xy: 233, 380
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+skin04/skin04_monster_flour_legs_fronts
+  rotate: false
+  xy: 229, 431
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+skin05/skin05_monster_flour_arml_behind01
+  rotate: false
+  xy: 419, 831
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+skin05/skin05_monster_flour_arml_behind02
+  rotate: false
+  xy: 710, 891
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+skin05/skin05_monster_flour_arml_fronts01
+  rotate: true
+  xy: 462, 842
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+skin05/skin05_monster_flour_arml_fronts02
+  rotate: false
+  xy: 765, 891
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+skin05/skin05_monster_flour_arms_behind01
+  rotate: true
+  xy: 813, 833
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+skin05/skin05_monster_flour_arms_behind02
+  rotate: true
+  xy: 763, 863
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+skin05/skin05_monster_flour_arms_fronts01
+  rotate: false
+  xy: 141, 42
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+skin05/skin05_monster_flour_arms_fronts02
+  rotate: false
+  xy: 127, 235
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+skin05/skin05_monster_flour_belly01
+  rotate: true
+  xy: 110, 361
+  size: 97, 78
+  orig: 97, 78
+  offset: 0, 0
+  index: -1
+skin05/skin05_monster_flour_belly02
+  rotate: false
+  xy: 132, 780
+  size: 128, 120
+  orig: 128, 120
+  offset: 0, 0
+  index: -1
+skin05/skin05_monster_flour_chest01
+  rotate: false
+  xy: 2, 283
+  size: 106, 123
+  orig: 106, 123
+  offset: 0, 0
+  index: -1
+skin05/skin05_monster_flour_chest02
+  rotate: false
+  xy: 923, 926
+  size: 95, 96
+  orig: 95, 96
+  offset: 0, 0
+  index: -1
+skin05/skin05_monster_flour_head
+  rotate: false
+  xy: 459, 774
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+skin05/skin05_monster_flour_legl_behind
+  rotate: false
+  xy: 229, 461
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+skin05/skin05_monster_flour_legl_fronts
+  rotate: true
+  xy: 493, 742
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+skin05/skin05_monster_flour_legs_behind
+  rotate: false
+  xy: 184, 271
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+skin05/skin05_monster_flour_legs_fronts
+  rotate: true
+  xy: 289, 619
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
